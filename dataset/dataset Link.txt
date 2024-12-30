@@ -1,1 +1,6 @@
-CLEF:
+
+All Dataset: https://drive.google.com/drive/folders/12WrV0W1ULOrhfWy8TxAwLHDfqg9iiIna?usp=sharing
+Synthetic: https://drive.google.com/file/d/1eqdnWFhXp1afbj62JNc7QGkEkNzVAolF/view?usp=sharing
+Original: https://drive.google.com/file/d/1eqdnWFhXp1afbj62JNc7QGkEkNzVAolF/view?usp=sharing
+Augmented: https://drive.google.com/file/d/1TzA-_La1vub8TM8PHnC5uUDF33wZNw0J/view?usp=sharing
+CLEF: https://drive.google.com/file/d/1_6coUaFtFmMDSITcDiviaESl-5rESfDm/view?usp=sharing
